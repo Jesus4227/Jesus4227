@@ -1,6 +1,6 @@
 ### HELLO
-# 💫 About Me:
-👋 I’m currently a college sophomore studying Computer science<br>👯 I’m looking to collaborate on Finance x CS projects <br>🌱 I’m currently learning Quantitative Analysis<br>
+# About Me:
+I’m currently a college junior studying Computer science and Engineering. I am looking to collaborate on Finance x CS projects, Algorithmic trading projects, and M always up for holistic learning experiences. 
 
 
 ## 🌐 Socials:
